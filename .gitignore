@@ -1,24 +1,21 @@
-# Ignora arquivos e pastas do Python
 __pycache__/
 *.py[cod]
 *.pyo
 *.pyd
-
-# Ambiente virtual
 env/
 venv/
 ENV/
 *.env
-
-# Arquivos do sistema
+dist/
+build/
+*.spec
+*.zip
+*.exe
+*.pkg
 .DS_Store
 Thumbs.db
-
-# Arquivos de log e cache
 *.log
 .cache/
-
-# PyInstaller
 dist/
 build/
 *.spec
