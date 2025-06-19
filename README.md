@@ -17,9 +17,13 @@ Este é um projeto simples de calculadora criado em Python usando a biblioteca *
 
 ### 👉 Opção 1: Arquivo Executável (Recomendado para usuários finais)
 
-1. Baixe o arquivo dentro da pasta "dist" `Calculadora_Py.exe ou Calculadora_Py.zip`.
-2. Se baixou o zip, extraia o conteúdo em alguma pasta do seu computador.
-3. Dê dois cliques no arquivo `calculadora.exe` para abrir a calculadora.
+1. Baixe o arquivo dentro da aba **[Releases](https://github.com/MatheusJVL/CalculadoraPy/releases)** do repositório.
+
+2. Na seção de assets, baixe o arquivo da pasta `dist`:  
+   - `Calculadora_Py.exe` **ou**  
+   - `Calculadora_Py.zip`
+3. Se for o `.zip`, extraia o conteúdo.
+4. Dê dois cliques no `Calculadora_Py.exe` para abrir a calculadora.
 
 > Nenhuma instalação de Python é necessária!
 
