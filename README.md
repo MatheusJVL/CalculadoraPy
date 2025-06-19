@@ -19,7 +19,7 @@ Este é um projeto simples de calculadora criado em Python usando a biblioteca *
 
 1. Baixe o arquivo dentro da aba **[Releases](https://github.com/MatheusJVL/CalculadoraPy/releases)** do repositório.
 
-2. Na seção de assets, baixe o arquivo da pasta `dist`:  
+2. Na seção de assets, baixe o arquivo:  
    - `Calculadora_Py.exe` **ou**  
    - `Calculadora_Py.zip`
 3. Se for o `.zip`, extraia o conteúdo.
